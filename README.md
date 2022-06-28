@@ -1,6 +1,6 @@
 # Interesting Min-dalle Seeds
 
-Interesting seeds and the images they generate using min-dalle
+Interesting seeds and the images they generate using [min-dalle](https://github.com/kuprel/min-dalle)
 
 ---
 
